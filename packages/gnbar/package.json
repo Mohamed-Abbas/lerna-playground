@@ -4,5 +4,5 @@
   "description": "a dummy dependency",
   "main": "index.js",
   "license": "MIT",
-  "private": "false"
+  "private": false
 }
