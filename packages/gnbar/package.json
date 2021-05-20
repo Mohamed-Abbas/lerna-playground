@@ -1,7 +1,8 @@
 {
-  "name": "foo",
+  "name": "gnbar",
   "version": "1.0.0",
   "description": "a dummy dependency",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "private": "false"
 }
