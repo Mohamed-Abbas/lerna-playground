@@ -1,1 +1,1 @@
-console.log("fixx mee 2");
+console.log("fixx mee 2 --canary");
