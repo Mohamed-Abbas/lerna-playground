@@ -6,7 +6,6 @@
     "publish": {
       "allowBranch": "master",
       "conventionalCommits": true,
-      "createRelease": "github",
       "distTag": "next",
       "message": "chore: publish"
     }
