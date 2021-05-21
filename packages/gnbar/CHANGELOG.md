@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/Mohamed-Abbas/lerna-playground/compare/gnbar@1.3.1...gnbar@2.0.0) (2021-05-21)
+
+
+* Next 7 (#10) ([da10c07](https://github.com/Mohamed-Abbas/lerna-playground/commit/da10c07fab6c264c15a50883fdc157828161a8d9)), closes [#10](https://github.com/Mohamed-Abbas/lerna-playground/issues/10)
+
+
+### BREAKING CHANGES
+
+* ahsdhasnjascnjancs
+
+
+
+
+
 ## [1.3.1](https://github.com/Mohamed-Abbas/lerna-playground/compare/gnbar@1.3.0...gnbar@1.3.1) (2021-05-21)
 
 **Note:** Version bump only for package gnbar

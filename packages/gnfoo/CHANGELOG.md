@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/Mohamed-Abbas/lerna-playground/compare/gnfoo@2.0.0...gnfoo@3.0.0) (2021-05-21)
+
+
+* Next 7 (#10) ([da10c07](https://github.com/Mohamed-Abbas/lerna-playground/commit/da10c07fab6c264c15a50883fdc157828161a8d9)), closes [#10](https://github.com/Mohamed-Abbas/lerna-playground/issues/10)
+
+
+### BREAKING CHANGES
+
+* ahsdhasnjascnjancs
+
+
+
+
+
 # [2.0.0](https://github.com/Mohamed-Abbas/lerna-playground/compare/gnfoo@1.1.1...gnfoo@2.0.0) (2021-05-21)
 
 
