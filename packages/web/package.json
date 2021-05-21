@@ -1,11 +1,11 @@
 {
   "name": "web",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a dummy app",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "gnbar": "^1.2.0",
-    "gnfoo": "^1.0.2"
+    "gnbar": "^1.3.0",
+    "gnfoo": "^1.1.0"
   }
 }
